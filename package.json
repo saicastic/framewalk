@@ -6,7 +6,8 @@
   },
   "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "ammo.js": "^0.0.10",
